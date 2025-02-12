@@ -1,13 +1,13 @@
 .banner{
     margin-top: -10vh;
-    height: 80vh;
+    height: 120vh;
     margin-bottom: 70px;
     color: white;
     object-fit: contain;
 }
 .banner-contents{
     margin-left: 30px;
-    padding-top: 300px;
+    padding-top: 150px;
 }
 .banner-title{
     font-size: 2rem;
@@ -33,7 +33,7 @@
     border-radius: 0.2vw;
     padding: 1rem 3rem;
 margin-right: 2rem;
-background-color: gray
+/* background-color: gray */
  /* rgb(50, 50, 0.5); */
 }
 .play{
