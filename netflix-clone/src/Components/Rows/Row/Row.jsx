@@ -11,7 +11,7 @@ import YouTube from 'react-youtube'
         useEffect(() => {
           (async () => {
             try {
-              console.log(fetchUrl)
+              // console.log(fetchUrl)
               const request = await axios.get(fetchUrl);
               // console.log(request)
               setMovie(request.data.results);
